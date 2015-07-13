@@ -19,7 +19,7 @@
     "babel-runtime": "^5.5.5",
     "bluebird": "^2.9.27",
     "lodash": "^3.9.3",
-    "mongodb-core": "dsuket/mongodb-core#V1.2.2",
+    "mongodb-core": "https://github.com/dsuket/mongodb-core/archive/V1.2.2.tar.gz",
     "parse-mongo-url": "^1.1.0",
     "readable-stream": "~1.1.8"
   },
